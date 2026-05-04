@@ -1,0 +1,14 @@
+Repositorio:
+Es como una carpeta donde guardo mi proyecto y todos los archivos.
+Ahí queda todo organizado y puedo ver los cambios que he hecho.
+Puede estar en mi computador o en la web.
+
+Commit:
+Es cuando guardo los cambios que hice en el proyecto.
+Es como tomar una foto de cómo va todo en ese momento.
+Me sirve para no perder lo que ya hice.
+
+Push:
+Es cuando subo mis cambios a GitHub desde mi computador.
+Así quedan guardados en internet y no solo en mi equipo.
+También permite que otras personas vean mi trabajo.

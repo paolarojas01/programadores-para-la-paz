@@ -1,0 +1,8 @@
+Es importante usar Git porque ayuda a guardar todos los cambios que uno hace en un proyecto.
+Así no se pierde el trabajo si algo sale mal o si uno se equivoca.
+También sirve para ver qué cosas se han hecho y cómo ha ido avanzando el proyecto.
+Cuando trabajan varias personas, ayuda a que todo esté más organizado.
+Evita que se mezclen los cambios o que se borre el trabajo de alguien.
+Además, uno puede volver a una versión anterior si algo no funciona bien.
+Da más tranquilidad porque todo queda guardado.
+En general, Git ayuda a tener más orden y control en el proyecto.
